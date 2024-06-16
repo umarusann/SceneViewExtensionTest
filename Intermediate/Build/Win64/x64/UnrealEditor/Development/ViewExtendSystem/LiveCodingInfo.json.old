@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ViewExtendSystem.cpp.obj": [
+			"MySceneViewExtensionSetting.gen.cpp.obj",
+			"ViewExtendSystem.init.gen.cpp.obj",
+			"ViewExtensionSubSystem.gen.cpp.obj",
+			"FMySceneViewExtension.cpp.obj",
+			"MySceneViewExtensionSetting.cpp.obj",
+			"ViewExtendSystem.cpp.obj",
+			"ViewExtensionSubSystem.cpp.obj"
+		]
+	}
+}

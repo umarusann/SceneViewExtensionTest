@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ViewExtendSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"E:\UE\UEPRJ\SceneTest\Plugins\ViewExtendSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\ViewExtendSystem\Module.ViewExtendSystem.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"E:\UE\UEPRJ\SceneTest\Plugins\ViewExtendSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\ViewExtendSystem\UnrealEditor-ViewExtendSystem.lib"
